@@ -3,9 +3,6 @@ Welcome to code name Yennefer
 Why the name Yennefer? 
 It is simple. I love the Witcher Books by  Andrzej Sapkowski, popularised by The Witcher game triology and now made into a Netflix TV series, I decided to build a PC to honor my favourite character. Yennefer of Vengerberg. If you also like the Witcher series, you can imagine this PC color scheme already. 
 
-![IMG_0459](https://user-images.githubusercontent.com/109401839/212549477-0bc16149-16c2-47d0-bc72-32cb52e4fdbe.JPG)
-
-![IMG_0458](https://user-images.githubusercontent.com/109401839/212549589-e3d27a04-5664-429f-8620-ffa4d8eeccd6.JPG)
 
 More background, my previous PC that I built in 2018 was running:
 - CPU: AMD 1600 , 3.2GHz 6-core Processor
@@ -16,15 +13,17 @@ More background, my previous PC that I built in 2018 was running:
 - PSU: EVGA 550w 80+ Gold
 - Storage: Seagate 1TB 5400 RPM Hybrid HDD, HP EX900 120GB M.2 NVME SSD
 - Case: Cooler Master Q300L 
-![IMG_0459](https://user-images.githubusercontent.com/109401839/212551059-c6967e47-3237-4f01-afde-fe5ae2aee4c9.JPG)
+
+![IMG_0459](https://user-images.githubusercontent.com/109401839/212549477-0bc16149-16c2-47d0-bc72-32cb52e4fdbe.JPG)
+
+![IMG_0458](https://user-images.githubusercontent.com/109401839/212549589-e3d27a04-5664-429f-8620-ffa4d8eeccd6.JPG)
 
 I was proud of this first build. It did what I wanted, most the time, game. However I sooned realised that it was extremely limited. 
 
 ![IMG_5925](https://user-images.githubusercontent.com/109401839/212550039-9c8cd8dd-f1d8-4df0-93f3-0d95766b5e26.JPG)
 I remember the long nights in the bios and GPU settings tweaking it just to get the best performance for dollar. 
 Overheated due to the case size and airflow restrictions. AMD GPU software was not unopitmised. The storage, though hybrid was not adequte for modern gaming. Still, it was my first build. My first love. 
-
- ![82731048-F2D8-468A-8860-2092057943A6](https://user-images.githubusercontent.com/109401839/212549482-58cd1fad-2237-47bd-914f-7d0584843194.JPG)
+![IMG_8003](https://user-images.githubusercontent.com/109401839/212551350-e69121fe-cc74-4565-a5a5-2307f0a66958.JPG)
 
 Now, it was time to move on.. A new PC was in order. I needed something that would... last awhile. So I schemed and there Yennefer came to mind. 
 
