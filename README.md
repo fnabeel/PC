@@ -4,7 +4,7 @@ Why the name Yennefer?
 It is simple. I love the Witcher Books by  Andrzej Sapkowski, popularised by The Witcher game triology and now made into a Netflix TV series, I decided to build a PC to honor my favourite character. Yennefer of Vengerberg. If you also like the Witcher series, you can imagine this PC color scheme already. 
 
 
-More background, my previous PC that I built in 2018 was running:
+More background, my [previous PC](https://pcpartpicker.com/list/BNRJCL) that I built in 2018 was running:
 - CPU: AMD 1600 , 3.2GHz 6-core Processor
 - Cooler: Cooler Master ML240L 
 - GPU: AMD Vega 56 Sappire Pulse Edition 8GB 
@@ -27,7 +27,7 @@ Overheated due to the case size and airflow restrictions. AMD GPU software was n
 
 Now, it was time to move on.. A new PC was in order. I needed something that would... last awhile. So I schemed and there Yennefer came to mind. 
 
-For my current build, I decided to go with;
+For my [current build](https://pcpartpicker.com/list/PbPd78), I decided to go with;
 - CPU: AMD 3700x , 3.6GHz 8-core Processor, OC to 4.4GHz
 - Cooler: NZXT Kraken X73 73.11 
 - GPU: MSI MECH 2X OC Radeon RX 6700 XT 12 GB Video Card
